@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Santiaragones
+- 👋 Hi, I’m @Santiaragones, I'm 18.
 - 👀 I’m interested in python
 - 🌱 I’m currently learning python and data science
 - 💞️ I’m looking to collaborate on ...
